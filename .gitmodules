@@ -1,0 +1,6 @@
+[submodule "HevORT"]
+	path = HevORT
+	url = https://github.com/SMHRambo/HevORT.git
+[submodule "Voron-2"]
+	path = Voron-2
+	url = https://github.com/SMHRambo/Voron-2.git
